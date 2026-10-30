@@ -2,7 +2,7 @@
 
 A browser photobooth. Open it, strike four poses, and get an aesthetic photo strip to download.
 
-**Live demo:** https://YOUR-USERNAME.github.io/little-frames
+**Live demo:** https://namanagr26.github.io/little-frames
 
 <p>
   <img src="samples/contact.jpg" width="23%">
