@@ -4,13 +4,6 @@ A browser photobooth. Open it, strike four poses, and get an aesthetic photo str
 
 **Live demo:** https://namanagr26.github.io/little-frames
 
-<p>
-  <img src="samples/contact.jpg" width="23%">
-  <img src="samples/velvet.jpg" width="23%">
-  <img src="samples/lace.jpg" width="23%">
-  <img src="samples/walnut.jpg" width="23%">
-</p>
-
 ## Features
 - Live camera preview with a countdown, flash and shutter sound
 - 19 filters: B&W, Silver, Cocoa, Velvet, Film, Noir, Vintage, Dreamy and more
